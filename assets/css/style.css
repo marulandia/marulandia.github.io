@@ -19,3 +19,13 @@ body {
 hr {
   color: aliceblue;
 }
+.info .icon {
+  background-color: skyblue;
+}
+.card img {
+  width: 100%;
+  height: 150px;
+}
+.card {
+  background-color: skyblue;
+}
