@@ -1,0 +1,21 @@
+html {
+  scroll-behavior: smooth;
+}
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  background-color: black;
+}
+.color {
+  color: #707070;
+}
+.navegador {
+  position: absolute;
+  z-index: 13;
+}
+.carousel-principal {
+  position: relative;
+}
+hr {
+  color: aliceblue;
+}
